@@ -31,18 +31,18 @@ Depois de coletar a chave na vila, você entra na Fase 1. Cada fase seguinte tem
   - I = interagir (falar com NPCs na Vila ou apertar botão nas fases)
 
 - **Fases**:
-  1. **Vila (10×10)**  
+  . **Vila (10×10)**  
      - NPCs “P”. Fique ao lado e pressione `I` para dicas.  
      - Chave “@”. Ande sobre ela para coletar e abrir a porta “D”.  
      - Ande sobre “=” (porta aberta) para entrar na Fase 1.  
-  2. **Fase 1 (10×10)**  
+  . **Fase 1 (10×10)**  
      - Chave “@”. Porta “D” vira “=” quando você pega a chave.  
      - Ande sobre “=” para ir à Fase 2.  
-  3. **Fase 2 (20×20)**  
+  . **Fase 2 (20×20)**  
      - Chave “@ ,Porta “D”.  
      - Botão “O” surge 2 espinhos aleatorios.  
      - Espinhos iniciais. Monstros “X”.    
-  4. **Fase 3 (40×40)**  
+  . **Fase 3 (40×40)**  
      - Chave “@”. Porta “D”.    
      - Espinhos iniciais em dez posições espalhadas. Monstros “X”: três, movem-se aleatoriamente. Monstro “V”: persegue em linha reta.  
      - Teleporte “>”.  
